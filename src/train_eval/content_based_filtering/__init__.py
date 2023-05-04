@@ -1,0 +1,1 @@
+from src.train_eval.content_based_filtering import content_based_filteringv2
